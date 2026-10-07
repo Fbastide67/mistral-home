@@ -1,7 +1,7 @@
 # Site Mistral Home
 
 Le site vitrine de Mistral Home (ménage, grands ménages et débarras à L'Isle-sur-la-Sorgue).
-C'est un site simple : du HTML et du CSS, sans outil à installer. Il est publié gratuitement avec GitHub Pages.
+C'est un site simple : du HTML et du CSS, sans outil à installer. Il est publié gratuitement avec GitHub Pages : https://fbastide67.github.io/mistral-home/
 
 ## Contenu du dossier
 
@@ -37,7 +37,6 @@ C'est un site simple : du HTML et du CSS, sans outil à installer. Il est publi�
 
 ## Avant la mise en ligne
 
-- [ ] Vérifier l'adresse e-mail (la plaquette indique `glail.com`, le site utilise `gmail.com`)
 - [ ] Compléter `mentions-legales.html` (SIRET, adresse, nom)
 - [ ] Vérifier la liste des communes dans la section Contact
-- [ ] Remplacer `img/og-image.jpg` dans `index.html` par l'adresse complète du site une fois en ligne
+- [ ] Si vous prenez un nom de domaine (ex. mistralhome.fr), remplacer `https://fbastide67.github.io/mistral-home/` dans `index.html`, `robots.txt` et `sitemap.xml`

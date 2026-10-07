@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fbastide67.github.io/mistral-home/sitemap.xml
